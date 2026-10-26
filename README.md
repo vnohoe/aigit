@@ -1,2 +1,2 @@
 # aigit
-repodd
+repod
